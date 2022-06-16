@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <Licence>MIT</Licence>
+    <Author>Matheus Varela</Author>
+    <Company>Locura Corp</Company>
+    <Version>1.0.0</Version>
+    <PackageDescription>Extension for url</PackageDescription>
+    <Description>Extensao de URL</Description>
+    <RepositoryUrl>https://github.com/matheusvarela/url-helper</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/matheusvarela/url-helper</PackageProjectUrl>
+    <PackageLicenceExpression>MIT</PackageLicenceExpression>
+    <PackageTags>AmigavelURLHelper</PackageTags>
+    <Title>Extensão para url</Title>
+    <Summary>Extensão para Url</Summary>
+
+  </PropertyGroup>
+
+</Project>

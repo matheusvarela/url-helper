@@ -5,18 +5,20 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <Licence>MIT</Licence>
-    <Author>Matheus Varela</Author>
-    <Company>Locura Corp</Company>
-    <Version>1.0.0</Version>
-    <PackageDescription>Extension for url</PackageDescription>
+    
+
+    <License>MIT</License>
+    <Authors>matheusvarela</Authors>
+    <Company>matheusvarela</Company>
+    <Version>1.2.0</Version>
+    <PackageDescription>Extensao de URL</PackageDescription>
     <Description>Extensao de URL</Description>
     <RepositoryUrl>https://github.com/matheusvarela/url-helper</RepositoryUrl>
     <PackageProjectUrl>https://github.com/matheusvarela/url-helper</PackageProjectUrl>
-    <PackageLicenceExpression>MIT</PackageLicenceExpression>
-    <PackageTags>AmigavelURLHelper</PackageTags>
+    <PackageTags>UrlHelperCarai</PackageTags>
     <Title>Extensão para url</Title>
     <Summary>Extensão para Url</Summary>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
 
   </PropertyGroup>
 
